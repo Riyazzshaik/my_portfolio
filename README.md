@@ -1,3 +1,3 @@
 # My portfolio
-Nmae: riyaz shaik 
+Name: riyaz shaik 
 Learning git from scratch!
